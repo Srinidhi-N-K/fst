@@ -4,3 +4,6 @@ feature
 This is a holiday
 This is sunday
 master
+
+added
+ok fine
